@@ -17,12 +17,11 @@ int[] GetArray(int size, int minValue, int maxValue)
 int summ(int[] inArray)
 {
     int count = 0;
-    for (int i = 0; i < inArray.Length; i++)
+    for (int i = 1; i < inArray.Length; i=i+2)
     {
-        if (i % 2 != 0)
-        {
-            count += inArray[i];
-        }
+        
+        count += inArray[i];
+        
     }
     return count;
 }
