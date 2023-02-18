@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\bin\Debug\net6.0\ex47.exe
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\bin\Debug\net6.0\ex47.deps.json
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\bin\Debug\net6.0\ex47.runtimeconfig.json
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\bin\Debug\net6.0\ex47.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\bin\Debug\net6.0\ex47.pdb
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.AssemblyInfo.cs
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\refint\ex47.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.pdb
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ex47.genruntimeconfig.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex47\obj\Debug\net6.0\ref\ex47.dll
