@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\bin\Debug\net6.0\ex62.exe
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\bin\Debug\net6.0\ex62.deps.json
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\bin\Debug\net6.0\ex62.runtimeconfig.json
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\bin\Debug\net6.0\ex62.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\bin\Debug\net6.0\ex62.pdb
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.AssemblyInfo.cs
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\refint\ex62.dll
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.pdb
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ex62.genruntimeconfig.cache
+C:\Users\user\Desktop\3sem\ex23\c-\ex62\obj\Debug\net6.0\ref\ex62.dll
